@@ -1,4 +1,4 @@
-# 
+# Enhance Audacity for macOS with Audacity for macOS professional Script: auto-tune & real-time-effects, the #1 script. Includes auto-tune and real-time-effects for a smoother and
 
 
 
